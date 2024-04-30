@@ -1,6 +1,6 @@
-### Microservice project template/gym
+### Microservice project templates
 
-Sales:
+Sales system:
 - https://github.com/keisersoze/subject
 - https://github.com/keisersoze/product
 
